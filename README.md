@@ -7,9 +7,6 @@ I'm In seok Jeon, a passionate developer with a focus on **Deep Learning - Visio
 - 🧠 I’m continuously learning about the latest advancements in **Deep Learning and Computer Vision**.
 - 📫 How to reach me: [sunlight3919@gmail.com]
 
-#### 🖼️ **Video Segmentation**:
-Currently, my focus revolves around advancing the fields of **Video Segmentation**.   
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InseokJeon&show_icons=true&theme=midnight-purple)
 
 ### **Connect with Me** 🚀  
