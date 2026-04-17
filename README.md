@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInSeokJub&count_bg=%23000080&title_bg=%23000080&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=True)](https://hits.seeyoufarm.com)
-
 ### **Hello, Future Innovators**! 👋
 
 I'm In seok Jeon, a passionate developer with a focus on **Deep Learning - Vision Task**.  
